@@ -8,9 +8,10 @@ It is planned to create a engine - ui - editor, so you don't need to know how to
 
 <h3>Examples</h3>
 
-<h5>\[Simple App example\]</h5>
-````
-//imports ...
+<h5>[Simple App example]</h5>
+
+```Java
+package com.programm.sandbox.simpletest;
 
 public class MyGame extends SandboxApp {
 
@@ -34,4 +35,4 @@ public class MyGame extends SandboxApp {
     }
 
 }
-````
+```
