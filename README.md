@@ -4,7 +4,7 @@ Sandbox is a simple 2D engine to build every possible 2D game you can think of.
 It is a library, so you use it in java code to build your game with it.
 It uses the LWJGL library which uses the OpenGL Api to render.
 
-It is planned to create a engine - ui - editor, so you don't need to know how to code.
+It is planned to create an ui - editor, so you don't need to know how to code.
 
 <h3>Examples</h3>
 
